@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T18:52:27.716Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="wrmgd19O7jJOaD8NVmQe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T18:54:40.848Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LaNs3eRiLTAbpXkXEiT6" version="21.7.2" type="github">
   <diagram name="Página-1" id="_09eoN5sBcOYWlevEsd9">
-    <mxGraphModel>
+    <mxGraphModel dx="832" dy="709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="doap62EA-uj4z4a4Nk5N-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="268" width="41" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-2" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="98" y="5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-3" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="108" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-4" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="105" y="288" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="233" y="75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="119" y="583" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="87" y="470" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" source="doap62EA-uj4z4a4Nk5N-1" target="doap62EA-uj4z4a4Nk5N-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="374" as="sourcePoint" />
+            <mxPoint x="160" y="324" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="83" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doap62EA-uj4z4a4Nk5N-9" value="" style="shape=link;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;width=253;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="85" y="349" as="sourcePoint" />
+            <mxPoint x="185" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
